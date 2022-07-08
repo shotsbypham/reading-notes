@@ -1,6 +1,6 @@
-##Read: 02 - The Coder's Computer
+## Read: 02 - The Coder's Computer
 
-###Choosing A Text Editor
+### Choosing A Text Editor
 What is a text editor?
 - "Allows you to write and manage text, especially the text that you write to build a website."
 
