@@ -1,7 +1,9 @@
-## Read: 02 - The Coder's Computer
+# Read: 02 - The Coder's Computer
 
-### Choosing A Text Editor
+## Choosing A Text Editor
+
 What is a text editor?
+
 - "Allows you to write and manage text, especially the text that you write to build a website."
 
 Features of a text editor:
@@ -13,6 +15,7 @@ Features of a text editor:
 5. extensions: many different plugins that help with functionality
 
 Different types of softwares to code with:
+
 1. NotePad++
 2. TextWrangler
 3. BB Edit
@@ -22,8 +25,10 @@ Different types of softwares to code with:
 7. Sublime Text
 IDE (Integrated Development Environment) is a bunch of different softwares combined, it is a text editor, a file manager, a compiler, and a debugger.
 
-### Linux Tutorial
+## Linux Tutorial
+
 Shortcuts:
+
 - cd[location] stands for change directory
 - pwd --> print working directory (where are we currently)
 - ls --> list the contents of a directory
