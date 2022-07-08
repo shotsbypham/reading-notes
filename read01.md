@@ -1,7 +1,9 @@
 # Notes about Markdowns and Basic Syntax
 
 Markdowns and Basic Syntax are symbols that make your code look a certain way on the main page. 
+
 This includes:
+
 - Headers
 - Bullet points
 - Bold
@@ -11,8 +13,7 @@ This includes:
 - and much more...
 
 Examples:
+
 1. **bold**
 2. _italics_
 3. ~~Strikethrough~~
-
-
