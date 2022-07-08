@@ -80,10 +80,6 @@ Link to External Pages with Anchor Elements
 To create an internal link, assign a link to a href attribute using a “#” and assign it to an id attribute. Then add the same id attribute to the elemene you are linking it to.
 
 - id: uniquely describes an element
-Example;
-
-- <a href= “#contacts-header”>Contacts</a>
-- <h2 id= “contacts-header”>Contacts</h2>
 
 Nest an Anchor Element within a Paragraph
 
