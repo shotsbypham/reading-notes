@@ -7,12 +7,8 @@ https://github.com/shotsbypham
 
 ## Table of Contents
 
-[Read 1](read01.md)
-
-[Read 2](read02.md)
-
-[Read 3](read03.md)
-
-[Read 4](read04.md)
-
-[Read 5](read05.md)
+- [Read 1](read01.md)
+- [Read 2](read02.md)
+- [Read 3](read03.md)
+- [Read 4](read04.md)
+- [Read 5](read05.md)
