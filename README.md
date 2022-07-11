@@ -20,7 +20,7 @@ https://github.com/shotsbypham
 
 ### Code 201 Reading Notes
 
-- [Read 1](201_read01.md)
+- [Read 1](class-01.md)
 - [Read 2](201_read02.md)
 - [Read 3](201_read03.md)
 - [Read 4](201_read04.md)
