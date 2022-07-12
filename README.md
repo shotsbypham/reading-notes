@@ -20,12 +20,12 @@ https://github.com/shotsbypham
 
 ### Code 201 Reading Notes
 
-- [Read 1](class-01.md)
-- [Read 2](201_read02.md)
-- [Read 3](201_read03.md)
+- [Read 1](201_class-01.md)
+- [Read 2](201_class02.md)
+<!-- - [Read 3](201_read03.md)
 - [Read 4](201_read04.md)
 - [Read 5](201_read05.md)
 - [Read 6](201_read06.md)
 - [Read 7](201_read07.md)
 - [Read 8](201_read08.md)
-- [Read 9](201_read09.md)
+- [Read 9](201_read09.md) -->
