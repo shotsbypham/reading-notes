@@ -24,7 +24,7 @@ https://github.com/shotsbypham
 - [Read 2](201_class02.md)
 - [Read 3](201_class03.md)
 - [Read 4](201_class04.md)
-- [Read 5](201_read05.md)
+- [Read 5](201_class05.md)
 - [Read 6](201_read06.md)
 - [Read 7](201_read07.md)
 - [Read 8](201_read08.md)
